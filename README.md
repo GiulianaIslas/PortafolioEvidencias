@@ -1,4 +1,4 @@
-# Portafolio de Evidenciass
+# Portafolio de Evidencias
 
 En el repositorio se presenta un compilado de las evidencias realizadas hasta el momento, así como una breve descripción de cada una de ellas.
 
@@ -10,6 +10,7 @@ En el repositorio se presenta un compilado de las evidencias realizadas hasta el
 3. [AltaConsultaBasesDeDatos](https://pip.pypa.io/en/stable/)
 4. [MARIE](https://pip.pypa.io/en/stable/)
 5. [CircuitosDigitales](https://pip.pypa.io/en/stable/)
+6. [ProcesamientoImagenes](https://pip.pypa.io/en/stable/)
 
 ## Resumen de contenidos
 
@@ -21,4 +22,6 @@ La tercera evidencia se trata de un proyecto para poder captar los registros de 
 
 La evidencia MARIE contiene el programa diseñado en marie.js para poder calcular el promedio de datos captados por un sensor digital. En el documento se presentan los diagramas de flujo de cada operación del programa, además el código correspondiente y por último, screenshots y un video del funcionamiento del programa.
 
-La última evidencia se trata de una práctica de circuitos digitales en la que se resuelven probelmas distintos de aplicación práctica como lo es el encendido de alarmas cuando se presenta un problema crítico. Los sistemas se desarrollaron tanto en simulación digital como en físico, para eso se presentan videos de su funcionamiento y evidencia de armado.
+La sigueinte evidencia se trata de una práctica de circuitos digitales en la que se resuelven probelmas distintos de aplicación práctica como lo es el encendido de alarmas cuando se presenta un problema crítico. Los sistemas se desarrollaron tanto en simulación digital como en físico, para eso se presentan videos de su funcionamiento y evidencia de armado.
+
+Por último, la evidencia de procesamiento de imagenes incluye on proyecto en python que utiliza ecuaciones para poder aplicar diferentes filtros a las imagenes que se importen al archivo main. 
