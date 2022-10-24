@@ -5,12 +5,12 @@ En el repositorio se presenta un compilado de las evidencias realizadas hasta el
 
 ## Indice de contenidos
 
-1. [BasesDeDatos](https://pip.pypa.io/en/stable/)
-2. [ProcesamientoDeDatos](https://pip.pypa.io/en/stable/)
-3. [AltaConsultaBasesDeDatos](https://pip.pypa.io/en/stable/)
-4. [MARIE](https://pip.pypa.io/en/stable/)
-5. [CircuitosDigitales](https://pip.pypa.io/en/stable/)
-6. [ProcesamientoImagenes](https://pip.pypa.io/en/stable/)
+1. BasesDeDatos
+2. ProcesamientoDeDatos
+3. AltaConsultaBasesDeDatos
+4. MARIE
+5. CircuitosDigitales
+6. ProcesamientoImagenes
 
 ## Resumen de contenidos
 
