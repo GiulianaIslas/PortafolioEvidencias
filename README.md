@@ -8,8 +8,8 @@ En el repositorio se presenta un compilado de las evidencias realizadas hasta el
 1. [BasesDeDatos](https://pip.pypa.io/en/stable/)
 2. [ProcesamientoDeDatos](https://pip.pypa.io/en/stable/)
 3. [AltaConsultaBasesDeDatos](https://pip.pypa.io/en/stable/)
-4. [MARIE] (https://pip.pypa.io/en/stable/)
-5. [CircuitosDigitales] (https://pip.pypa.io/en/stable/)
+4. [MARIE](https://pip.pypa.io/en/stable/)
+5. [CircuitosDigitales](https://pip.pypa.io/en/stable/)
 
 ## Resumen de contenidos
 
